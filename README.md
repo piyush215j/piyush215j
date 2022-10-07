@@ -7,3 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 web devlopment/ui/ux
 - 🌱 react/node/opencv/embededsystem
+
+thank you
